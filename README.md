@@ -1,4 +1,7 @@
-### Hi 👋, I'm Pedro Davi
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Pedro Davi</h1></summary>
+</div>
 
 Passionate about innovation and technology, ready to tackle new challenges.
 
