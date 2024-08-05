@@ -19,4 +19,4 @@ Passionate about innovation and technology, ready to tackle new challenges.
 </div><br/>
 
 
-## - 📫 How to reach me: **pedrodavi.cdesa@gmail.com**
+## 📫 How to reach me: **pedrodavi.cdesa@gmail.com**
