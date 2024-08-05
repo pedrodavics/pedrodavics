@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Pedro Davi
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrodavics/)
+Passionate about innovation and technology, ready to tackle new challenges.
 
 ## Languages and Tools
 
@@ -15,6 +15,5 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
 
-Passionate about innovation and technology, ready to tackle new challenges.
 
 ## - 📫 How to reach me: **pedrodavi.cdesa@gmail.com**
